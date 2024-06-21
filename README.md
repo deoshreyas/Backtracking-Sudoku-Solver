@@ -12,3 +12,8 @@ As you can see, this is quite similar to how our own brains handle the game of S
 
 ## :desktop_computer: How to run locally
 Just clone the repository on your machine, and run `main.py`. You might need to install a few packages, like `pygame`. Please make sure you have the font `comicsans` installed on your machine (or change the font in the source).
+
+## :grey_question: Controls
+- Press `g` to generate a random sudoku (with multiple possible solutions).
+- Press `c` to check your solution. If correct, it will change from red to black.
+- Press `<SPACE>` to solve using the backtracking algorithm.
